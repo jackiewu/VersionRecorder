@@ -1,0 +1,16 @@
+{
+  "name": "vue-template",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/9o00xjmq5y",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.17.1",
+    "markdown-it": "8.4.1",
+    "vue": "2.5.2",
+    "vue-router": "3.0.1",
+    "vuetify": "latest",
+    "vuex": "latest"
+  }
+}
